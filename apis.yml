@@ -64,6 +64,11 @@ tags:
 - Robotics
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/appliedintuition/
+  name: Applied Intuition
+  x-relationship: acquired
+  x-evidence: "The company went public via a SPAC merger with Northern Star Investment Corp II in late 2021, but wound down operations in November 2023 after failing to secure additional funding; its autonomous-driving technology and engineering assets we"
 - type: GitHubOrganization
   url: https://github.com/embarktrucks
   name: Embark Trucks on GitHub
